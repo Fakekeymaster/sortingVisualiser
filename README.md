@@ -1,5 +1,5 @@
 - # Sorting-Visualizer
-A simulator of most popular sorting algorithms (selection, insertion, quick, merge) sorts
+A simulator of most popular sorting algorithms (bubble, selection, insertion, quick, merge) sorts
 
 https://fakekeymaster.github.io/sortingVisualiser/
 
